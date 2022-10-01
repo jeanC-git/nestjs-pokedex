@@ -4,6 +4,7 @@
 
 /mongo
 .env
+.env.prod
 package-lock.json
 
 # Logs
